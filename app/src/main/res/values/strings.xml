@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Eng Learning</string>
+
+
+
+    <string name="tutTitle1">Witaj w Eng Learning!</string>
+    <string name="tutDesc1">Jest nam niezmiernie miło, że wybrałeś Eng Learning aby powiększyć oraz utrwalić swoją wiedzę z języka angielskiego. Ten poradnik pomoże oswoić Ci się z zasadami działania aplikacji. Zaczynajmy! !</string>
+
+    <string name="tutTitle2">Start gry</string>
+    <string name="tutDesc2">Twoim celem jest odgadnięcie anglojęzycznego słowa na podstawie podpowiedzi w postaci obrazka bądź dźwięku dostępnego do odtworzenia w specjalnie oznaczonych turach</string>
+
+    <string name="tutTitle3">Plansza</string>
+    <string name="tutDesc3">Za wygraną rundę przyznawane są punkty, dzięki którym możesz zdobywać kolejne odznaczenia i rangi.</string>
+
+    <string name="tutTitle4">Próba odgadnięcia hasła</string>
+    <string name="tutDesc4">Naciskając na poszczególne litery alfabetu, podejmujesz próbę dopasowania ich do liter zawartych w haśle. Każda udana próba odsłoni wszystkie wystąpienia danej litery w haśle. W przeciwnym wypadku, po trzech nieudanych próbach, runda kończy się porażką.</string>
+
+    <string name="tutTitle5">Wygrana tura</string>
+    <string name="tutDesc5">W przypadku wygranej, odsłonione zostanie całe słowo wraz z jego tłumaczeniem. Klikając na ikonę odtwarzania dźwięku na dole ekranu, usłyszysz poprawną wymowę danego słowa po angielsku.</string>
+
+    <string name="tutTitle6">Przegrana tura</string>
+    <string name="tutDesc6">Po odniesionej porażce, masz możliwość jednej ponownej próby bądź wyświetlenia odpowiedzi, co jest jednoznaczne z poddaniem się i przeniesieniem hasła do "słowniczka" z nieodgadniętymi słowami, które możesz utrwalać oraz po ponownym powtórzeniu słówek- ponownie podjąć próbę ich odgadnięcia, przechodząc do zakładki "Słownik" w menu głównym.</string>
+
+    <string name="tutTitle7">Przegrana tura</string>
+    <string name="tutDesc7">Jeśli próbując rozwiązać hasło ponownie, wygrasz rundę, punkty nie za wygraną nie zostaną przyznane.</string>
+
+    <string name="tutTitle8">Dźwięk jako wskazówka</string>
+    <string name="tutDesc8">W niektórych przypadkach, zamiast konkretnej grafiki, zobaczysz ikonę jak na obrazku. Po naciśnięciu na nią, usłyszysz dźwięk- wskazówkę do rozwiązania hasła.</string>
+
+    <string name="tutTitle9">Witaj w słowniku! </string>
+    <string name="tutDesc9">W tym miejscu znajdą się wszystkie słowa, z którymi miałeś problem w głównej rozgrywce. Uważnie je przeanalizuj, po czym śmiało podejdź do próby ponownego odgadnięcia haseł!</string>
+
+    <string name="tutTitle10">Zasady gry</string>
+    <string name="tutDesc10">Plansza oraz zasady gry są podobne jak w przypadku głównej rozgrywki. Rozwiązując zagadkę w tym trybie, eliminujesz je ze słownika. W tym trybie punkty za wygraną nie są przyznawane, a naciskając strzałki w prawym dolnym rogu, wylosujesz następne hasło w dowolnej chwili. Sprawdź, ile nowych słów zapamiętałeś! </string>
+
+    <string name="congrats1">Świetnie!</string>
+    <string name="congrats2">Dobra robota!</string>
+    <string name="congrats3">Dobrze!</string>
+    <string name="congrats4">Oby tak dalej!</string>
+    <string name="congrats5">O to chodzi!</string>
+
+    <string name="wrong1">Porażka!</string>
+    <string name="wrong2">Źle! </string>
+    <string name="wrong3">Niestety!</string>
+    <string name="wrong4">Próbuj dalej! </string>
+    <string name="wrong5">Nie udało się!</string>
+</resources>
